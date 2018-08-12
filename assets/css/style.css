@@ -1,40 +1,46 @@
 body {
-  background-image: url("../images/brushed_alu_dark.png");
+  background-image: url("../images/darkness.png");
  
 }
 .myWork{
   margin-top:5%;  
-  margin-left:30%;
+  margin-left:40%;
+  color:whitesmoke;
+  border-color:whitesmoke;
 }
 
 header{
-    background-color:lightcoral;     
+    background-color:lightslategray;     
 }
 
 img{
   width:100%;
 }
 .github{
-  margin-top:15%;
-  margin-left:15%;
-  margin-right:7%;
+  margin-top:35%;
+  margin-left:45%;
+  margin-right:10%;
 }
 .email{
-  margin-top:15%; 
-  margin-right:7%;
+  margin-top:35%; 
+  margin-right:10%;
 }
 .linkedin{
-  margin-top:15%;
-  margin-right:7%;
+  margin-top:35%;
+  margin-right:10%;
 }
 .resume {
   margin-left:48%; 
   margin-top:.5%;
   margin-bottom:1%;
+  color:whitesmoke;
+  border-color:whitesmoke;
 }
 .home1{
-  margin-left:90%;
+  /* margin-left:90%; */
   margin-bottom:1%;
+  color:whitesmoke;
+  border-color:whitesmoke;
 }
 
 .home{
@@ -42,9 +48,15 @@ img{
   margin-bottom:.5%
   
 }
+.links{
+  margin-left:44.5%;
+ padding-bottom:1%;
+}
  .resume1{
-  margin-left:1%;
+  /* margin-left:1%; */
   margin-bottom:1%;
+  color:whitesmoke;
+  border-color:whitesmoke;
 } 
  .name {
   text-align:center;
@@ -62,27 +74,27 @@ img{
 }
 
 .text {
-  background: lightcoral;
+  background: lightslategray;
   color: black;
   margin-top:5%;
-  width:55%;
+  width:90%;
   margin-left:5%;
   
 }
 
 .head {
-  background: white;
+  background:whitesmoke;
   color: black;
   text-align: center;
 }
 #repo{
     margin-top:7%;
     text-align:center;
-    background-color:lightcoral;   
+    background-color:lightslategray;   
 }
 #projects{
   margin-top:2%;
   text-align:center;
-  background-color:lightcoral;   
+  background-color:lightslategray;   
 }
 
