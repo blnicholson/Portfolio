@@ -1,0 +1,80 @@
+body {
+  background-image: url("../images/brushed_alu_dark.png");
+ 
+}
+.myWork{
+  margin-top:5%;  
+  margin-left:30%;
+}
+
+header{
+    background-color:lightcoral;     
+}
+
+img{
+  width:100%;
+}
+.github{
+  margin-top:15%;
+  margin-left:15%;
+  margin-right:7%;
+}
+.email{
+  margin-top:15%; 
+  margin-right:7%;
+}
+.linkedin{
+  margin-top:15%;
+  margin-right:7%;
+}
+.resume {
+  margin-left:48%; 
+  margin-top:.5%;
+  margin-bottom:1%;
+  
+}
+
+/* .aboutMe {
+  font-size: 20px;
+  
+}  */
+ .name {
+  text-align:center;
+  
+} 
+.title {
+  text-align: center;
+}
+.me {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-left: 46%;
+  margin-top:1%
+}
+
+.text {
+  background: lightcoral;
+  color: black;
+  margin-top:5%;
+  width:55%;
+  margin-left:5%;
+  
+}
+
+.head {
+  background: white;
+  color: black;
+  text-align: center;
+}
+#repo{
+    margin-top:7%;
+    text-align:center;
+    background-color:lightcoral;   
+}
+#projects{
+  margin-top:2%;
+  text-align:center;
+  background-color:lightcoral;   
+}
+
