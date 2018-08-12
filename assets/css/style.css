@@ -31,13 +31,21 @@ img{
   margin-left:48%; 
   margin-top:.5%;
   margin-bottom:1%;
-  
+}
+.home1{
+  margin-left:90%;
+  margin-bottom:1%;
 }
 
-/* .aboutMe {
-  font-size: 20px;
+.home{
+  margin-left:48.5%;
+  margin-bottom:.5%
   
-}  */
+}
+ .resume1{
+  margin-left:1%;
+  margin-bottom:1%;
+} 
  .name {
   text-align:center;
   
